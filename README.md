@@ -1,2 +1,0 @@
-# Calculater
-Check the ReadMe
